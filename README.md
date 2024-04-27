@@ -1,3 +1,9 @@
 # Markdown
 
-This is a repositoryfor the internal Markdown course of Bühler AG.
+This is a repository for the markdown course.
+
+## Course Contents
+
+- **Documentation**
+  - Markdown in General
+  - Markdown Cheatsheet
