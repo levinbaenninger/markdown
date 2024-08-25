@@ -1,4 +1,4 @@
-# Markdown Syntax
+# Syntax
 
 <show-structure depth="2"/>
 
@@ -176,7 +176,7 @@ Die Pipes müssen nicht zwingend untereinander stehen:
 
 ### Weblinks
 
-In Markdown kann man Links erstellen: [GitHub](https://www.github.com/)
+In Markdown kann man Links erstellen: [_GitHub_](https://www.github.com/)
 
 ```Markup
 [Github](https://www.github.com/)
@@ -188,17 +188,21 @@ In Markdown kann man Links erstellen: [GitHub](https://www.github.com/)
 
 Man kann auch Dateien im Repository verlinken mit relativen Links.
 
-Das ist der Link für [Markdown Dokumentation](Markdown.md)
+Link zur [**Markdown Dokumentation**](Markdown.md)
 
 ```Markup
-[](markdown)
+[**Markdown Dokumentation**](Markdown.md)
 ```
 
 ## Bilder
 
 Eine weitere Funktion von Markdown ist das Einfügen von Bildern.
 
-![MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/312px-Markdown-mark.svg.png?20190322184628)
+![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/312px-Markdown-mark.svg.png?20190322184628)
+
+````Markup
+![Markdown](https://upload.wikimedia.org/wikipedia/markdown-mark.svg)
+````
 
 ## Kommentare
 
