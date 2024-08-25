@@ -1,4 +1,4 @@
-# Markdown
+# Einführung
 
 ## Was ist Markdown?
 
@@ -22,7 +22,3 @@ Markdown wird vor allem für die Dokumentation von Software gebraucht. Bei Bühl
 
 - **Markdownlint** - IntelliSense
 - **Markdown All In One** - Verschiedenste Tools für Markdown
-
-## Syntax von Markdown
-
-[Markdown Syntax](Markdown-Syntax.md)
