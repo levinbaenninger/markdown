@@ -31,13 +31,17 @@
         </spotlight>
 
         <primary>
-            <title>Links</title>
-            <a href="https://www.markdownguide.org/cheat-sheet/" summary="Hier findet man ein einfaches Markdown Cheat Sheet">Cheat Sheet</a>
-        </primary>
-        <secondary>
             <title>Tutorials und Referenzen</title>
             <a href="https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax"
                summary="Dieses Seite befasst sich mit der Syntax">GitHub Docs - Markdown Tutorial</a>
+            <a href="https://www.markdownguide.org/cheat-sheet/" summary="Hier findet man ein einfaches Markdown Cheat Sheet">Cheat Sheet</a>
+        </primary>
+
+        <secondary>
+            <title>Weitere Ressourcen</title>
+            <a href="https://www.markdownguide.org/" summary="Diese Seite ist ein Guide für Markdown">Guide</a>
+            <a href="https://commonmark.org/help/tutorial/"
+               summary="Hier findest du ein interaktives Tutorial zu Markdown">Tutorial</a>
         </secondary>
 
     </section-starting-page>
