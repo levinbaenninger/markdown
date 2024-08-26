@@ -4,6 +4,9 @@
 
     <variables>
         <primary-color>metallic</primary-color>
+        <algolia-id>N6GTE1XY08</algolia-id>
+        <algolia-index>prod_MARKDOWN</algolia-index>
+        <algolia-api-key>ca17385e3d0a222970ad61ae63dcda4b</algolia-api-key>
     </variables>
     <build-profile instance="hi">
         <variables>
